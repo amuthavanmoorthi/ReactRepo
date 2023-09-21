@@ -1,0 +1,77 @@
+REACT 
+
+NODE - APPLICATION
+NPM - TOOL
+NPX - execute
+Create-react-app = Package
+
+Library - They will give only starting (return).
+
+Framework - A framework is a set of pre-written code that provides a structure for developing software applications. We can edit that!
+
+Node Module :
+    @babel - write a html script inside a js file.
+(combined with xml and js)
+
+index - brower only know this file
+without html file browser won't run.
+npm start = it will search first index.html
+
+in Public - index.html(root) -> in SRC - index.js(document get element by id) -> app.js
+
+Component - pages we used. ex- home component, career component.
+
+Meta is created.
+
+initially created to single page application.
+
+To install package Ex- npm install boostrap (updated version). To specific version use (@).
+
+
+how to import React package?
+import React from 'react'; 
+
+first React is = component
+second react is = package name;
+
+Return will return only single data (<>).
+
+DEFAULT METHOD AND NAMING METHOD
+
+If there is default it will default method. otherswise that is naming method.
+default is used without curly braces.
+naming method need 
+
+Find unique package in react.!!!!!!!!
+
+JSX - javascript.XML (initially)
+
+		ROUTING 
+* moving one page to another page.
+package name - react-router-dom
+* the version we have to check when i goto interview.
+
+Component - BrowserRouter -> Routes -> Route -> Link
+Attributes has:
+Route = path and element
+link = To
+
+instead a , href we are using link, to
+import link
+
+import 'bootstrap/dist/js/bootstrap.bundle' in app.js;
+we have to change the id name in toggle in 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
