@@ -1,0 +1,11 @@
+fetch = axios.get
+const [datas,setDate] = useState([])
+useEffect(()=>{
+axios.get(" link in the pose man")
+.then((res)=>{
+	setDate(res.data.jData)	
+})
+}
+
+This is for run our own API what we have created in sprinBoot.
+

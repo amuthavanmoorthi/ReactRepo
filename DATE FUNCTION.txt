@@ -1,0 +1,10 @@
+DATE FUNCTION
+
+1. getFullYear();
+2. getMonth();
+3. getDate();
+4. new Date(); for getting today date
+5. setDate();
+6. getDate();
+
+

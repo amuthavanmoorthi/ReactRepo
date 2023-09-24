@@ -1,0 +1,47 @@
+	COMPONENTS
+   FUNCTION AND CLASS
+class component company's won't work.
+
+Props = property => it's transfer the data from one component to another component.
+functional components is plain javascript.
+
+VDOM => virtual DOM 
+it take a copy of a real dom and render the updated element. 
+we must to use render in class components.
+initially class component only there.
+FC - js top to bottom.
+
+what is state?
+holds the data and update the data.
+
+Fc - initially stateless components for used only UI. after coming hooks it's be stateful.
+
+
+		LIFECYCLE CLASS COMPONENT
+MOUNTING (COMPONENT DID MOUNT()) => inputs
+UPDATING (cOMPONENT DID UPDATE()) =>  calling id and update
+UNMOUNTING (COMPONENT WILL UN MOUNT()) => cname.disable 
+
+		HOOKS METHOD
+
+BASIC HOOKS
+	UseState - Syntax = const [variable, setVariable] = useState(ini-value)
+	UseEffect 
+	UseContext
+ADDITIONAL HOOKS
+
+If i got in 1k of date in fraction of second i will go with additional hooks.
+   
+	useReducer => Netflix
+	useCallBack => child 
+	useMemo => increase performance
+	useRef => using child components
+	useImperativeHandle => when can't handle the data.
+	useLayoutEffect => like async (in useEffect)
+	useDebugValue => to create new 
+
+
+
+
+
+

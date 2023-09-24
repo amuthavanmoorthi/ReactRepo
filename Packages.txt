@@ -1,0 +1,10 @@
+typewritter
+AOS = best for animations
+Redux 
+hand design
+UUID
+PREACt
+MUI
+StoryBook
+ReactGridGallary
+Victory
